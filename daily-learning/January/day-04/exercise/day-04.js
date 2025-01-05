@@ -1,0 +1,2 @@
+const scriptingLanguage = "A scripting language is a high-level programming language designed for automating tasks, controlling software, and handling data. It is typically interpreted rather than compiled, allowing for rapid development and execution of small programs to automate repetitive actions or integrate systems. Examples include Python, JavaScript, and Bash.";
+console.log(scriptingLanguage);
