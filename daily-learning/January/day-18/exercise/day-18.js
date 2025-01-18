@@ -1,0 +1,58 @@
+// const arrowOne = (param1) => `Hi, I am Arrow One`;
+// const arrowTwo = (param2) => `Hi, I am Arrow Two`;
+// const arrowThree = (param3) => `Hi, I am Arrow Three`;
+// const arrowFour = (param4) => `Hi, I am Arrow Four`;
+// const arrowFive = (param5) => `Hi, I am Arrow Five`;
+// const arrowSix = (param6) => `Hi, I am Arrow Six`;
+// const arrowSeven = (param7) => `Hi, I am Arrow Seven`;
+// const arrowEight = (param8) => `Hi, I am Arrow Eight`;
+// const arrowNine = (param9) => `Hi, I am Arrow Nine`;
+// const arrowTen = (param10) => `Hi, I am Arrow Ten`;
+// const arrowEleven = (param11) => `Hi, I am Arrow Eleven`;
+// const arrowTwelve = (param12) => `Hi, I am Arrow Twelve`;
+// const arrowThirteen = (param13) => `Hi, I am Arrow Thirteen`;
+// const arrowFourteen = (param14) => `Hi, I am Arrow Fourteen`;
+// const arrowFifteen = (param15) => `Hi, I am Arrow Fifteen`;
+// const arrowSixteen = (param16) => `Hi, I am Arrow Sixteen`;
+// const arrowSeventeen = (param17) => `Hi, I am Arrow Seventeen`;
+// const arrowEighteen = (param18) => `Hi, I am Arrow Eighteen`;
+// const arrowNineteen = (param19) => `Hi, I am Arrow Nineteen`;
+// const arrowTwenty = (param20) => `Hi, I am Arrow Twenty`;
+// const arrowTwentyOne = (param21) => `Hi, I am Arrow Twenty-One`;
+// const arrowTwentyTwo = (param22) => `Hi, I am Arrow Twenty-Two`;
+// const arrowTwentyThree = (param23) => `Hi, I am Arrow Twenty-Three`;
+// const arrowTwentyFour = (param24) => `Hi, I am Arrow Twenty-Four`;
+// const arrowTwentyFive = (param25) => `Hi, I am Arrow Twenty-Five`;
+// const arrowTwentySix = (param26) => `Hi, I am Arrow Twenty-Six`;
+// const arrowTwentySeven = (param27) => `Hi, I am Arrow Twenty-Seven`;
+// const arrowTwentyEight = (param28) => `Hi, I am Arrow Twenty-Eight`;
+// const arrowTwentyNine = (param29) => `Hi, I am Arrow Twenty-Nine`;
+// const arrowThirty = (param30, param31) => param30 + param31;
+// const arrowThirtyOne = (param31, param32) => param31 - param32;
+// const arrowThirtyTwo = (param32, param33) => param32 * param33;
+// const arrowThirtyThree = (param33, param34) => param33 / param34;
+// const arrowThirtyFour = (param34, param35) => param34 + param35;
+// const arrowThirtyFive = (param35, param36) => param35 * param36;
+// const arrowThirtySix = (param36, param37) => param36 - param37;
+// const arrowThirtySeven = (param37, param38) => param37 / param38;
+// const arrowThirtyEight = (param38, param39) => param38 * param39;
+// const arrowThirtyNine = (param39, param40) => param39 + param40;
+// const arrowForty = (param40, param41) => param40 / param41;
+// const arrowFortyOne = (param41, param42) => param41 - param42;
+// const arrowFortyTwo = (param42, param43) => param42 * param43;
+// const arrowFortyThree = (param43, param44) => param43 + param44;
+// const arrowFortyFour = (param44, param45) => param44 - param45;
+// const arrowFortyFive = (param45, param46) => param45 / param46;
+// const arrowFortySix = (param46, param47) => param46 * param47;
+// const arrowFortySeven = (param47, param48) => param47 + param48;
+// const arrowFortyEight = (param48, param49) => param48 - param49;
+// const arrowFortyNine = (param49, param50) => param49 / param50;
+// const arrowFifty = (param50, param51) => param50 * param51;
+
+
+// console.log(arrowTwentyNine(29));
+// console.log(arrowThirty(10, 20)); 
+// console.log(arrowThirtyTwo(5, 4)); 
+// console.log(arrowThirtyThree(100, 5)); 
+
+
