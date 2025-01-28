@@ -34,13 +34,15 @@ console.log(sqrt122);
 
                     //Task 3:
 
-const compareRoundingMethods = (number) => {
-    return {
-      rounded: Math.round(number),  // Round to nearest integer
-      ceil: Math.ceil(number),      // Round up
-      floor: Math.floor(number)     // Round down
-    };
-  };
+const compareRoundingMethods = (number) => (
+    {
+        rounded: Math.round(number),  // Round to nearest integer
+        ceil: Math.ceil(number),      // Round up
+        floor: Math.floor(number)     // Round down
+      }
+);
+  
+
   
   const result1 = compareRoundingMethods(4.7);
   console.log(result1);
@@ -68,17 +70,12 @@ for (let i = 0; i < 10; i++) {
 // 	•	Return an object with the three totals.
 
 
-const calculateTotal = (items) => {
-    // Calculate the sum of all items in the array
-    const total = items.reduce((acc, item) => acc + item, 0);
-  
-    // Return an object with rounded, ceil, and floor totals
-    return {
-      totalRounded: Math.round(total),  // Round to nearest integer
-      totalCeil: Math.ceil(total),      // Round up
-      totalFloor: Math.floor(total)     // Round down
-    };
-  };
+const calculateTotal = (items) => 
+  ({
+    totalRounded: Math.round(items.reduce((acc, item) => acc + item, 0)),  // Round to nearest integer
+    totalCeil: Math.ceil(items.reduce((acc, item) => acc + item, 0)),      // Round up
+    totalFloor: Math.floor(items.reduce((acc, item) => acc + item, 0))     // Round down
+  });
   
   // Example usage:
   const itemPrices = [10.5, 5.3, 8.8];
