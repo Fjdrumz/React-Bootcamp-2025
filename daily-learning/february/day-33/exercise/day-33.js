@@ -17,7 +17,7 @@ console.log(rounded1);
 console.log(rounded2);
 console.log(rounded3);
 
-const numberArray = [floatNum1, floatNum2, floatNum3];
+const numberArray = [rounded1, rounded2, rounded3];
 
 console.log(numberArray);
 
