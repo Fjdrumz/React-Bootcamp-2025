@@ -82,7 +82,7 @@ const arrowFunction = `
 
  
    
-    const gradeCalculatore = (grade) => {
+    const gradeCalculator = (grade) => {
       
         if (grade >= 90) {
             return "A";
@@ -95,7 +95,36 @@ const arrowFunction = `
         }
     }
 
-    console.log(gradeCalculatore(95));
-    console.log(gradeCalculatore(85));
-    console.log(gradeCalculatore(75));
-    console.log(gradeCalculatore(65));
+    console.log(gradeCalculator(95));
+    console.log(gradeCalculator(85));
+    console.log(gradeCalculator(75));
+    console.log(gradeCalculator(65));
+
+
+    // 3.	Use a switch statement to create a function dayOfWeek() that returns the day of the week based on a number (1 for Monday, 2 for Tuesday, etc.).
+
+    const dayOfWeek = (num) => {
+        switch (num) {
+            case 1:
+                return "Monday";
+            case 2:
+                return "Tuesday";
+            case 3:
+                return "Wednesday";
+            case 4:
+                return "Thursday";
+            case 5:
+                return "Friday";
+            case 6:
+                return "Saturday";
+            case 7:
+                return "Sunday";
+            default:
+                return "Invalid number! Please enter a number between 1 and 7.";
+        }
+    };
+    
+    console.log(dayOfWeek(1)); 
+    console.log(dayOfWeek(5));
+    console.log(dayOfWeek(8)); 
+    
