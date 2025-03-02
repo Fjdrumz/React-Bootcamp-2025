@@ -123,8 +123,8 @@ const arrowFunction = `
                 return "Invalid number! Please enter a number between 1 and 7.";
         }
     };
-    
+
     console.log(dayOfWeek(1)); 
     console.log(dayOfWeek(5));
-    console.log(dayOfWeek(8)); 
+    console.log(dayOfWeek(7)); 
     
